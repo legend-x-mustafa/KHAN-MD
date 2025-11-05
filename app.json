@@ -1,22 +1,22 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "name": "LORD-X-MUSTAFA",
+  "description": "Javascript WhatsApp bot made by LORD-X-MUSTAFA",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["KHAN-XMD"],
+  "keywords": ["LORD-X-MUSTAFA"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "IK~aRlnDb7R#XaTavNB3yYc-mrpzvz0f4-g9dP4jFLghGp-7cN5sJ5s",
       "required": true,
       "value": ""
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "LORD-X-MUSTAFA-💀🚩",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "LORD-X-MUSTAFA"
     }, 
       
     "PREFIX": {
@@ -78,18 +78,18 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY LORD-X-MUSTAFA-💀🚩*"
    
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "PRINCE-MUSTATA",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "PRINCE-MUSTAFA"
 }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "923406982921",
       "required": false,
       "value": "92310344XXXX"
 
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "LORD-X-MUSTAFA"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "false"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LORD-X-MUSTAFA*"
     },
 
       "DELETE_LINKS": {
