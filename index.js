@@ -8,4 +8,4 @@
 
 // Made with ♥️ By JawadTech 
 
-// Powered By JawadTechX KHAN-MD 2025 🚀
+// Powered By LORD-X-MUSTAFA-💀🚩 2025 
